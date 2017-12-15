@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="how-to-start-successful-online-retail.html"}
-if(x=="2"){xxx="the-future-of-shopping.html"}
-if(x=="3"){xxx="programmer-who-stopped-wannacry-charged.html"}
-if(x=="4"){xxx="step-by-step-instructions-to-add-your.html"}
-if(x=="5"){xxx="the-6-best-ecommerce-platforms-for_4.html"}a_to_ve[i].href="http://www.adviceforex.tk/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="how-cardio-exercise-helps-you-to-lose.html"}
+if(x=="2"){xxx="sight-jogging-in-dublin.html"}
+if(x=="3"){xxx="5-great-cardio-exercises-that-dont-need.html"}
+if(x=="4"){xxx="what-is-best-cardio-for-weight-loss.html"}
+if(x=="5"){xxx="7-keys-to-good-health-by-good-breathing.html"}a_to_ve[i].href="https://meongdora.blogspot.com/2017/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
